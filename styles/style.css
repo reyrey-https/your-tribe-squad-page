@@ -85,9 +85,113 @@ body {
     text-align: center;
     font-size: 1.5em;
     white-space: normal;
-    
   }
-.card {
+
+  .grid-container3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 50px;
+    max-width: fit-content;
+  margin-inline: auto;
+
+  }
+  
+  .grid-container3 > div {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid black;
+    text-align: center;
+    font-size: 1.5em;
+    white-space: normal;
+  }
+
+  .grid-container4 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 50px;
+    max-width: fit-content;
+  margin-inline: auto;
+
+  }
+  
+  .grid-container4 > div {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid black;
+    text-align: center;
+    font-size: 1.5em;
+    white-space: normal;
+  }
+
+  .grid-container5 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 50px;
+    max-width: fit-content;
+  margin-inline: auto;
+
+  }
+  
+  .grid-container5 > div {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid black;
+    text-align: center;
+    font-size: 1.5em;
+    white-space: normal;
+  }
+
+  .grid-container6 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 50px;
+    max-width: fit-content;
+  margin-inline: auto;
+
+  }
+  
+  .grid-container6 > div {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid black;
+    text-align: center;
+    font-size: 1.5em;
+    white-space: normal;
+  }
+
+  .grid-container7 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 50px;
+    max-width: fit-content;
+  margin-inline: auto;
+
+  }
+  
+  .grid-container7 > div {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid black;
+    text-align: center;
+    font-size: 1.5em;
+    white-space: normal;
+  }
+
+  .grid-container8 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 50px;
+    max-width: fit-content;
+  margin-inline: auto;
+
+  }
+  
+  .grid-container8 > div {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid black;
+    text-align: center;
+    font-size: 1.5em;
+    white-space: normal;
+  }
+    
+     
+    
+ .card {
     width: 380px;
     height: 600px;
     border-radius: 20px;
