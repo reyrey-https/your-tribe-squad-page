@@ -57,7 +57,7 @@ body {
 }.grid-container1 {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
-    gap: 70px;
+    gap: 50px;
     max-width: fit-content;
   margin-inline: auto;
 
@@ -73,7 +73,7 @@ body {
 .grid-container2 {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
-    gap: 70px;
+    gap: 50px;
     max-width: fit-content;
   margin-inline: auto;
 
@@ -88,8 +88,8 @@ body {
     
   }
 .card {
-    width: 190px;
-    height: 254px;
+    width: 380px;
+    height: 600px;
     border-radius: 20px;
     background: #f5f5f5;
     position: relative;
