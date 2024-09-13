@@ -70,6 +70,12 @@ body {
     font-size: 1.5em;
     white-space: normal;
   }
+
+  img { 
+    max-width: 200px;
+    min-width: 50px;
+  }
+  
 .grid-container2 {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
