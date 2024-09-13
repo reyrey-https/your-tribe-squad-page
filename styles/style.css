@@ -36,7 +36,7 @@ body {
 }
 
 .header a.active {
-  background-color: rgb(32, 2, 74);
+  background-color: black;
   color: white;
 }
 
@@ -87,7 +87,7 @@ body {
     white-space: normal;
   }
 
-  .grid-container3 {
+    .grid-container3 {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     gap: 50px;
@@ -205,7 +205,7 @@ body {
   }
   
   .card-details {
-    color: rgb(147, 106, 171);
+    color: rgb(162, 0, 255);
     height: 100%;
     gap: .5em;
     display: grid;
